@@ -8,6 +8,7 @@
 
 - [CommitStrip](http://www.commitstrip.com/en/) - The blog relating the daily life of web agency developers.
 - [MonkeyUser](https://www.monkeyuser.com/) - Software development satire in a web comic.
+- [Mid](https://midcomic.com/) - A daily satirical strip about life inside an over-funded AI startup.
 - [turnoff.us](http://turnoff.us/) - Geek Comic Site.
 - [The coding love](https://thecodinglove.com/) - A bit of developer humor for your break.
 - [devRant](https://devrant.com/feed) - A fun community for developers to connect over code, tech & life as a programmer.
