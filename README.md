@@ -37,8 +37,8 @@
 
 - [xkcd](https://xkcd.com/) - A webcomic of romance, sarcasm, math, and language.
 - [Dilbert](https://web.archive.org/web/20230310210307/https://dilbert.com/) - Satirical office humor. (Web archive)
-- [PhD Comics](http://phdcomics.com/) - Piled Higher and Deeper, Life at the university.
-- [Abstruse Goose](https://abstrusegoose.com/) - A webcomic......... that is all.
+- [PhD Comics](https://phdcomics.com/) - Piled Higher and Deeper, Life at the university.
+- [Abstruse Goose](https://web.archive.org/web/20230606075206/https://abstrusegoose.com/) - A webcomic......... that is all. (Web archive)
 
 ## Bots, Slack channels, groups, etc.
 
